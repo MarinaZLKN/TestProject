@@ -12,3 +12,6 @@ if __name__ == '__main__':
 
 
 # I have no idea what I'm doing #
+
+# Ok, I'm slowly getting to undersatanding what I'm doing
+
